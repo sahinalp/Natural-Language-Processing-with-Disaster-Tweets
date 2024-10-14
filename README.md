@@ -1,4 +1,4 @@
-# Natural-Language-Processing-with-Disaster-Tweets
+# Natural Language Processing with Disaster Tweets
 
 This project focuses on classifying whether tweets are about real disasters or not using natural language processing (NLP) techniques. The dataset consists of tweets that are labeled as either referring to a real disaster or not. The aim is to create a deep learning model that is able to classify the label based on the tweet.
 
